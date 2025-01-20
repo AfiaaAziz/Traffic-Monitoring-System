@@ -31,13 +31,12 @@ This project, **Traffic Monitoring System**, is a **semester project** for the *
 - **SciPy**: For numerical integration (definite integral computation)  
 - **Pillow**: For animations and image processing  
 
-### Input Screenshot
 ![Input Screenshot](https://github.com/AfiaaAziz/Traffic-Monitoring-System/blob/main/ScreenShots/Inputs.jpg)
 
-### Graph Screenshot
+
 ![Graph Screenshot](https://github.com/AfiaaAziz/Traffic-Monitoring-System/blob/main/ScreenShots/Graph.jpg)
 
-### Traffic Animation Screenshot
+
 ![Traffic Animation Screenshot](https://github.com/AfiaaAziz/Traffic-Monitoring-System/blob/main/ScreenShots/traffic%20Animation.jpg)
 
 
