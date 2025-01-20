@@ -33,4 +33,8 @@ This project, **Traffic Monitoring System**, is a **semester project** for the *
 
 ![Input Screenshot](https://github.com/AfiaaAziz/Traffic-Monitoring-System/blob/main/ScreenShots/Inputs.jpg)
 
+![Graph Screenshot](https://github.com/AfiaaAziz/Traffic-Monitoring-System/blob/main/ScreenShots/Graph.jpg)
+
+![Traffic Animation Screenshot](https://github.com/AfiaaAziz/Traffic-Monitoring-System/blob/main/ScreenShots/traffic%20Animation.jpg)
+
 ---
